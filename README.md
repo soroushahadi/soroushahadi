@@ -3,7 +3,7 @@
 🎓 M.Sc. in Computer Architecture from the University of Tehran  
 🔍 Passionate about AI, Python, and Data Science
 
-🔍 Focused on:
+📌 Focused on:
 - 🧠 Deep Learning & LLMs
 - 📊 Data Analysis & Visualization
 - 🤖 NLP & Neural Networks
