@@ -1,6 +1,7 @@
 ## Hi, I'm Soroush Ahadi 👋
 
-🎓 Master's in Computer Architecture | Passionate about Python, AI & Data
+🎓 M.Sc. in Computer Architecture from the University of Tehran  
+🔍 Passionate about AI, Python, and Data Science
 
 🔍 Focused on:
 - 🧠 Deep Learning & LLMs
